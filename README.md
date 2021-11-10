@@ -5,5 +5,5 @@ Instruction:
 2. Copy that folder into you server eg htdocs in XAMPP.
 3. The Database code is in the file named "payment.sql"
 Note: We have premuim courses where projects like User subbscription application, Donation page, multiple product sales page etc are built out of paystack.
-If you want it, contact us via email => thelordofapps@gmail.com
+If you want it, contact us via email => samprincelys@gmail.com
 
